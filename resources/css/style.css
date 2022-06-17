@@ -316,6 +316,7 @@ header .mobile {
   height: 100%;
   /* background-color: darkcyan; */
   width: max-Content;
+  height: auto;
 }
 
 .block-right-content h1 {
