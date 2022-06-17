@@ -329,6 +329,7 @@ header .mobile {
   font-size: 3.3vw;
   font-weight: 600;
   width: auto;
+  height: auto;
   padding-bottom: 18px;
 }
 
@@ -341,6 +342,7 @@ header .mobile {
   font-size: 2vw;
   font-weight: 400;
   width: auto;
+  height: auto;
   padding-bottom: 18px;
 }
 
